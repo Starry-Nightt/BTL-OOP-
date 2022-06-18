@@ -25,6 +25,11 @@ public class User {
     public void setUserName(String userName) {
         this.userName = userName;
     }
+
+    public void viewHistory(){
+        history.viewHistory();
+    }
+
     public Result listenPodcast(Podcast podcast){
         /*
          Code
