@@ -1,0 +1,22 @@
+// VS code - java FX project
+
+1) Đẩy code
+
+	B1: Mở terminal
+	B2: Nhập 'git branch' để kiểm tra có ở nhánh của mình không (khi đã tạo branch)
+	B3: Nhập 'git add .'
+	B4: Nhập 'git commit -m"Đây là commit" '
+	B5: Nhập 'git push'
+	B6: Vào github và pull request
+
+2) Lấy code về
+	B1: Mở terminal
+	B2: Nhập 'git checkout main'
+	B3: Nhập 'git pull'
+	B4: Nhập 'git checkout <your_branch>'
+	B5: Nhập 'git merge main'
+
+** Cách tạo nhánh
+	B1: Mở terminal
+	B2: Nhập 'git checkout -b <name>'
+	
